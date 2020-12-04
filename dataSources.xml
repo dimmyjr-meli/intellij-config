@@ -1,0 +1,11 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Oracle FCT" read-only="true" check-outdated="false" uuid="29833625-6d75-40c3-8892-d9f8088b4776">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//primary.bilw01.oracle.furyservices.io:1521/bil_w01_read</jdbc-url>
+    </data-source>
+  </component>
+</application>
